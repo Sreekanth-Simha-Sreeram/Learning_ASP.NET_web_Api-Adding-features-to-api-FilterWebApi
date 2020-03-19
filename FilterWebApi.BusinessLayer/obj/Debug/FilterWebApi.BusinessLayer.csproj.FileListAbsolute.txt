@@ -1,0 +1,4 @@
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\FilterWebApi\FilterWebApi.BusinessLayer\bin\Debug\FilterWebApi.BusinessLayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\FilterWebApi\FilterWebApi.BusinessLayer\bin\Debug\FilterWebApi.BusinessLayer.pdb
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\FilterWebApi\FilterWebApi.BusinessLayer\obj\Debug\FilterWebApi.BusinessLayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\FilterWebApi\FilterWebApi.BusinessLayer\obj\Debug\FilterWebApi.BusinessLayer.pdb
